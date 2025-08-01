@@ -26,7 +26,7 @@ Work/Projects
 - What factors affect the price of a car? https://github.com/kimhall1/DEA-Project--What-factors-affect-the-price-of-a-car-.git
 
     o	This project focuses on the data exploration analysis of car data and what features impact car prices the most.
-  - Medical Review: Predicting Outcomes https://github.com/kimhall1/Medical-Review-Predicting-Outcomes-Project-3
+- Medical Review: Predicting Outcomes https://github.com/kimhall1/Medical-Review-Predicting-Outcomes-Project-3
 
     o	Text classification model created to predict medical review decision outcomes.  TF-IDR and logisitic regression featured.
 
